@@ -1,4 +1,5 @@
 # Primeiro repositório
 biblioteca virtual em c++
 
-espero que ache intressante :D
+Feito no primeiro ano de TGPSI
+spero que ache intressante :D
